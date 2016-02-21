@@ -26,9 +26,3 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
-
-# Babel Build
-lib
-
-# UMD Build
-dist
